@@ -4429,6 +4429,36 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 152.4 244.856 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 603d3334-896c-43e4-a37c-9e1256805cc1)
+    (property "Reference" "#PWR021" (at 158.75 244.856 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 156.464 244.856 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 152.4 244.856 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 152.4 244.856 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4f927475-b8bf-453e-9429-949b50a2bdb4))
+    (instances
+      (project "DRV8313_Dev_Board"
+        (path "/68230e14-bdbb-403c-82a7-6b8a172d069e"
+          (reference "#PWR021") (unit 1)
+        )
+      )
+      (project "Water_Quality_Measuring_System"
+        (path "/7b51d846-b8d6-4f13-b74f-f62264261045"
+          (reference "#PWR022") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C") (at 85.09 184.404 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6064df24-5738-4007-9ca6-439b7f7e20c3)
