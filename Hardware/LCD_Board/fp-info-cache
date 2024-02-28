@@ -1,4 +1,4 @@
-23039450999761100
+23073633054133499
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63412,6 +63412,118 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Library
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+Library
+EC190707_STD
+
+
+0
+6
+6
+Library
+Johanson_2450AT43F0100
+Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, 1dBi, https://www.johansontechnology.com/datasheets/2450AT43F0100/2450AT43F0100.pdf
+antenna
+0
+2
+2
+Library
+LED_RGB_5050-6
+http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
+RGB LED 5050-6
+0
+6
+6
+Library
+QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+38
+29
+Library
+QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm
+QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+65
+49
+Library
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Library
+SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL
+
+
+0
+5
+5
+Library
+SOT95P240X115-3N
+XC6206P332MR
+Integrated Circuit
+0
+3
+3
+Library
+SOT95P280X145-5N
+DBV0005A__
+Integrated Circuit
+0
+5
+5
+Library
+TCS34725
+TCS34725-3
+Filter
+0
+6
+6
+Library
+TF卡槽
+
+
+0
+13
+13
+Library
+USB_C_Receptacle_XKB_U262-16XN-4BVC11
+USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
+USB C Type-C Receptacle SMD
+0
+20
+17
+Library
+ZJY200K-IF05
+
+
+0
+22
+22
+Library
+五向开关
+
+
+0
+10
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -94387,3 +94499,31 @@ Varistor VF
 0
 2
 2
+kicad_lceda
+EC190707_STD
+
+
+0
+6
+6
+kicad_lceda
+SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL
+
+
+0
+5
+5
+kicad_lceda
+TF卡槽
+
+
+0
+13
+13
+kicad_lceda
+五向开关
+
+
+0
+10
+8
