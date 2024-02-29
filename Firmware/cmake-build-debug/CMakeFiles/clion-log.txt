@@ -1,0 +1,1 @@
+在 C:\Users\15216\Documents\Water_Quality_Measuring_System\Firmware 中找不到 CMakeLists.txt 选择 CMakeLists.txt
