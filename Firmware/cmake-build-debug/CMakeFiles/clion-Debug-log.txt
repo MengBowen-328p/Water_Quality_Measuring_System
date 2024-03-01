@@ -1,0 +1,1 @@
+在 /Users/mengbowen/Documents/Embedded_Dev/Water_Quality_Measuring_System/Firmware 中找不到 CMakeLists.txt 选择 CMakeLists.txt

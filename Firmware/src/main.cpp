@@ -1,11 +1,14 @@
 #include <Arduino.h>
-#include "GUI.h"
-void setup() {
-// write your initialization code here
-}
+#include <GUI.h>
+#include <Sensor.h>
+Screen screen = Screen();
 
-void loop() {
-// write your code here
+void setup()
+{
+    screen.initDisplay();
+    screen.showMainMenu();
 }
-
- 
+void loop()
+{
+    screen.routine(5);
+}
