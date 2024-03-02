@@ -1,5 +1,5 @@
 .pio/build/pico32/src/Sensor.cpp.o: src/Sensor.cpp include/Sensor.h \
- .pio/libdeps/pico32/Adafruit\ TCS34725/Adafruit_TCS34725.h \
+ .pio/libdeps/pico32/TCS34725/TCS34725.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp_arduino_version.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/FreeRTOS.h \
@@ -132,6 +132,5 @@
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/io_pin_remap.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
- .pio/libdeps/pico32/Adafruit\ BusIO/Adafruit_I2CDevice.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src/Wire.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h

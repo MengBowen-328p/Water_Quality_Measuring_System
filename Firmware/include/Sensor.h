@@ -5,13 +5,25 @@
 #ifndef FIRMWARE_SENSOR_H
 #define FIRMWARE_SENSOR_H
 
-#include <Adafruit_TCS34725.h>
+#include <TCS34725.h>
 #include <Wire.h>
+#include "stdio.h"
 
-class COLORSENSOR
-{
+#define SENSOR_SDA 32
+#define SENSOR_SCL 33
+
+class COLORSENSOR {
 public:
-    void initSensor(void);
+    boolean initSensor(void);
+
+    void getColor(void);
+
+    float getR(void);
+
+    float getG(void);
+
+    float getB(void);
+
 private:
 
 };

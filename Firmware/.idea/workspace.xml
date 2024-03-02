@@ -15,586 +15,103 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4abbbac-97f7-437d-9984-58274a8860da" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.github/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.github/workflows/githubci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.piopm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_BusIO_Register.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_BusIO_Register.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_I2CDevice.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_I2CDevice.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_I2CRegister.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_SPIDevice.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_SPIDevice.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/component.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2c_address_detect/i2c_address_detect.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2c_readwrite/i2c_readwrite.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2c_registers/i2c_registers.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2corspi_register/i2corspi_register.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_modetest/spi_modetest.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_readwrite/spi_readwrite.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_register_bits/spi_register_bits.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_registers/spi_registers.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/library.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.github/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.github/workflows/githubci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.piopm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/Adafruit_TCS34725.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/Adafruit_TCS34725.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/code-of-conduct.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/colorview/colorview.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/integration_time/integration_time.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/interrupt/interrupt.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/tcs34725/tcs34725.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/tcs34725autorange/tcs34725autorange.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples_processing/colorview/colorview.pde" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/library.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/Sensor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sensor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hardware/Main_Board/Main_Board/Main_Board-backups/Main_Board-2024-02-19_164758.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hardware/Main_Board/Main_Board/Main_Board-backups/Main_Board-2024-02-19_165258.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hardware/Main_Board/Main_Board/Main_Board.kicad_pcb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hardware/Main_Board/Main_Board/Main_Board.kicad_prl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hardware/Main_Board/Main_Board/Main_Board.kicad_pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hardware/Main_Board/Main_Board/Main_Board.kicad_sch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hardware/Main_Board/Main_Board/fp-info-cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hardware/Main_Board/Main_Board/~Main_Board.kicad_pcb.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hardware/Main_Board/Main_Board/~Main_Board.kicad_sch.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Firmware.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/.piopm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/TCS34725.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/example/example.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/library.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/library.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/Calculate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/Keys.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculate.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/MicroPython/images_md5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/events_init.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/events_init.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/generated.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/gui_guider.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/gui_guider.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/lv_port_indev.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/lv_port_indev.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/setup_scr_Ca_Measure_Page.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/setup_scr_Home_Page.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/widgets_init.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/widgets_init.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keys.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/.sconsign311.dblite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/Esp.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/Esp.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/FirmwareMSC.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/FirmwareMSC.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/FunctionalInterrupt.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/FunctionalInterrupt.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/HWCDC.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/HWCDC.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/HardwareSerial.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/HardwareSerial.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/IPAddress.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/IPAddress.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/IPv6Address.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/IPv6Address.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/MD5Builder.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/MD5Builder.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/Print.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/Print.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/Stream.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/Stream.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/StreamString.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/StreamString.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/Tone.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/Tone.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/USB.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/USB.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/USBCDC.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/USBCDC.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/USBMSC.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/USBMSC.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/WMath.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/WMath.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/WString.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/WString.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/base64.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/base64.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/cbuf.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/cbuf.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-adc.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-adc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-bt.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-bt.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-cpu.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-cpu.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-dac.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-dac.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-gpio.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-gpio.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-i2c-slave.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-i2c-slave.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-i2c.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-i2c.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-ledc.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-ledc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-matrix.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-matrix.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-misc.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-misc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-psram.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-psram.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-rgb-led.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-rgb-led.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-rmt.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-rmt.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-sigmadelta.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-sigmadelta.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-spi.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-spi.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-time.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-time.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-timer.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-timer.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-tinyusb.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-tinyusb.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-touch.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-touch.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-uart.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/esp32-hal-uart.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/firmware_msc_fat.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/firmware_msc_fat.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/libb64/cdecode.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/libb64/cdecode.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/libb64/cencode.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/libb64/cencode.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/main.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/stdlib_noniso.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/stdlib_noniso.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/wiring_pulse.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/wiring_pulse.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/wiring_shift.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/wiring_shift.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/bootloader.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.elf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/idedata.json" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/idedata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib4cc/FS/FS.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib4cc/FS/FS.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib4cc/FS/vfs_api.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib4cc/FS/vfs_api.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib4cc/libFS.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib4d0/TFT_eSPI/TFT_eSPI.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib4d0/TFT_eSPI/TFT_eSPI.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib4d0/libTFT_eSPI.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib62b/SPI/SPI.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib62b/SPI/SPI.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib62b/libSPI.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libFrameworkArduino.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libb99/LittleFS/LittleFS.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libb99/LittleFS/LittleFS.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libb99/libLittleFS.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/liblvgl.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_disp.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_disp.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_event.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_event.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_group.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_group.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_indev.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_indev.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_indev_scroll.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_indev_scroll.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_class.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_class.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_draw.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_draw.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_pos.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_pos.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_scroll.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_scroll.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_style.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_style.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_style_gen.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_style_gen.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_tree.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_obj_tree.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_refr.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_refr.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_theme.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/core/lv_theme.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/arm2d/lv_gpu_arm2d.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/arm2d/lv_gpu_arm2d.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_arc.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_arc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_img.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_img.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_label.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_label.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_layer.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_layer.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_line.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_line.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_mask.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_mask.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_rect.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_rect.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_transform.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_transform.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_triangle.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_draw_triangle.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_img_buf.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_img_buf.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_img_cache.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_img_cache.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_img_decoder.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/lv_img_decoder.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/pxp/lv_draw_pxp.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/pxp/lv_draw_pxp.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/pxp/lv_draw_pxp_blend.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/pxp/lv_draw_pxp_blend.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/pxp/lv_gpu_nxp_pxp.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/pxp/lv_gpu_nxp_pxp.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite_arc.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite_arc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite_blend.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite_blend.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite_line.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite_line.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite_rect.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_draw_vglite_rect.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_vglite_buf.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_vglite_buf.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_vglite_utils.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/nxp/vglite/lv_vglite_utils.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/renesas/lv_gpu_d2_draw_label.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/renesas/lv_gpu_d2_draw_label.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/renesas/lv_gpu_d2_ra6m3.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/renesas/lv_gpu_d2_ra6m3.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_arc.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_arc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_bg.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_bg.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_composite.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_composite.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_img.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_img.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_label.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_label.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_layer.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_layer.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_line.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_line.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_mask.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_mask.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_polygon.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_polygon.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_rect.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_rect.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_stack_blur.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_stack_blur.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_texture_cache.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_texture_cache.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_utils.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sdl/lv_draw_sdl_utils.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_arc.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_arc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_blend.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_blend.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_dither.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_dither.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_gradient.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_gradient.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_img.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_img.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_layer.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_layer.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_letter.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_letter.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_line.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_line.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_polygon.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_polygon.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_rect.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_rect.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_transform.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/sw/lv_draw_sw_transform.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/layouts/flex/lv_flex.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/layouts/flex/lv_flex.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/layouts/grid/lv_grid.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/layouts/grid/lv_grid.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/bmp/lv_bmp.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/bmp/lv_bmp.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/ffmpeg/lv_ffmpeg.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/ffmpeg/lv_ffmpeg.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/freetype/lv_freetype.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/freetype/lv_freetype.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_fatfs.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_fatfs.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_littlefs.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_littlefs.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_posix.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_posix.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_stdio.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_stdio.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_win32.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/fsdrv/lv_fs_win32.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/gif/gifdec.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/gif/gifdec.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/gif/lv_gif.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/gif/lv_gif.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/png/lodepng.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/png/lodepng.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/png/lv_png.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/png/lv_png.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/qrcode/lv_qrcode.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/qrcode/lv_qrcode.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/qrcode/qrcodegen.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/qrcode/qrcodegen.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/rlottie/lv_rlottie.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/rlottie/lv_rlottie.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/sjpg/lv_sjpg.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/sjpg/lv_sjpg.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/sjpg/tjpgd.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/sjpg/tjpgd.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/tiny_ttf/lv_tiny_ttf.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/libs/tiny_ttf/lv_tiny_ttf.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/lv_extra.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/lv_extra.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/fragment/lv_fragment.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/fragment/lv_fragment.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/fragment/lv_fragment_manager.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/fragment/lv_fragment_manager.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/gridnav/lv_gridnav.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/gridnav/lv_gridnav.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/ime/lv_ime_pinyin.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/ime/lv_ime_pinyin.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/imgfont/lv_imgfont.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/imgfont/lv_imgfont.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/monkey/lv_monkey.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/monkey/lv_monkey.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/msg/lv_msg.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/msg/lv_msg.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/snapshot/lv_snapshot.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/others/snapshot/lv_snapshot.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/themes/basic/lv_theme_basic.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/themes/basic/lv_theme_basic.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/themes/default/lv_theme_default.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/themes/default/lv_theme_default.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/themes/mono/lv_theme_mono.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/themes/mono/lv_theme_mono.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/animimg/lv_animimg.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/animimg/lv_animimg.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/calendar/lv_calendar.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/calendar/lv_calendar.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/calendar/lv_calendar_header_arrow.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/calendar/lv_calendar_header_arrow.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/calendar/lv_calendar_header_dropdown.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/calendar/lv_calendar_header_dropdown.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/chart/lv_chart.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/chart/lv_chart.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/colorwheel/lv_colorwheel.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/colorwheel/lv_colorwheel.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/imgbtn/lv_imgbtn.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/imgbtn/lv_imgbtn.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/keyboard/lv_keyboard.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/keyboard/lv_keyboard.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/led/lv_led.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/led/lv_led.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/list/lv_list.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/list/lv_list.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/menu/lv_menu.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/menu/lv_menu.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/meter/lv_meter.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/meter/lv_meter.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/msgbox/lv_msgbox.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/msgbox/lv_msgbox.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/span/lv_span.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/span/lv_span.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/spinbox/lv_spinbox.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/spinbox/lv_spinbox.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/spinner/lv_spinner.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/spinner/lv_spinner.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/tabview/lv_tabview.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/tabview/lv_tabview.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/tileview/lv_tileview.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/tileview/lv_tileview.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/win/lv_win.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/extra/widgets/win/lv_win.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_dejavu_16_persian_hebrew.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_dejavu_16_persian_hebrew.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_fmt_txt.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_fmt_txt.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_loader.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_loader.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_10.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_10.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_12.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_12.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_12_subpx.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_12_subpx.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_14.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_14.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_16.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_16.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_18.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_18.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_20.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_20.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_22.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_22.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_24.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_24.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_26.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_26.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_28.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_28.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_28_compressed.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_28_compressed.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_30.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_30.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_32.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_32.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_34.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_34.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_36.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_36.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_38.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_38.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_40.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_40.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_42.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_42.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_44.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_44.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_46.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_46.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_48.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_48.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_8.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_montserrat_8.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_simsun_16_cjk.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_simsun_16_cjk.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_unscii_16.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_unscii_16.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_unscii_8.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/font/lv_font_unscii_8.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/hal/lv_hal_disp.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/hal/lv_hal_disp.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/hal/lv_hal_indev.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/hal/lv_hal_indev.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/hal/lv_hal_tick.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/hal/lv_hal_tick.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_anim.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_anim.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_anim_timeline.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_anim_timeline.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_area.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_area.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_async.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_async.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_bidi.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_bidi.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_color.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_color.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_fs.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_fs.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_gc.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_gc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_ll.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_ll.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_log.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_log.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_lru.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_lru.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_math.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_math.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_mem.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_mem.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_printf.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_printf.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_style.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_style.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_style_gen.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_style_gen.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_templ.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_templ.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_timer.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_timer.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_tlsf.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_tlsf.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_txt.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_txt.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_txt_ap.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_txt_ap.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_utils.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/misc/lv_utils.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_arc.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_arc.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_bar.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_bar.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_btn.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_btn.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_btnmatrix.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_btnmatrix.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_canvas.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_canvas.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_checkbox.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_checkbox.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_dropdown.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_dropdown.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_img.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_img.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_label.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_label.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_line.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_line.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_objx_templ.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_objx_templ.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_roller.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_roller.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_slider.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_slider.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_switch.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_switch.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_table.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_table.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_textarea.c.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libda1/lvgl/widgets/lv_textarea.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libf2a/SPIFFS/SPIFFS.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libf2a/SPIFFS/SPIFFS.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libf2a/libSPIFFS.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/longcmd-ea34a4ce05c84a2973b1fe6359077c09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/partitions.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/.sconsign39.dblite" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/.sconsign39.dblite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/firmware_msc_fat.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/firmware_msc_fat.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/firmware.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.elf" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/firmware.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.map" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/firmware.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/idedata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib85d/Adafruit TCS34725/Adafruit_TCS34725.cpp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib85d/Adafruit TCS34725/Adafruit_TCS34725.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib85d/libAdafruit TCS34725.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libFrameworkArduino.a" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/libFrameworkArduino.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_BusIO_Register.cpp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_BusIO_Register.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_I2CDevice.cpp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_I2CDevice.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_SPIDevice.cpp.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_SPIDevice.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/libAdafruit BusIO.a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/GUI.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/tmp02h7344y.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/tmp4vl13giy.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/tmp9ogl0_5b.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/tmpjszk5p8j.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/tmpk1_1pg12.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/tmplrv5upvu.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/tmpte4t8b4o.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/tmptxu4_r3r.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/tmpvjk4vbvb.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/GUI.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/Sensor.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/Sensor.cpp.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/Sensor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/Sensor.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pio/build/project.checksum" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/project.checksum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.github/workflows/githubci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.piopm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_BusIO_Register.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_BusIO_Register.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_I2CDevice.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_I2CDevice.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_I2CRegister.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_SPIDevice.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_SPIDevice.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/component.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2c_address_detect/i2c_address_detect.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2c_readwrite/i2c_readwrite.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2c_registers/i2c_registers.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2corspi_register/i2corspi_register.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_modetest/spi_modetest.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_readwrite/spi_readwrite.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_register_bits/spi_register_bits.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_registers/spi_registers.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/library.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.github/workflows/githubci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.piopm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/Adafruit_TCS34725.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/Adafruit_TCS34725.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/code-of-conduct.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/colorview/colorview.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/integration_time/integration_time.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/interrupt/interrupt.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/tcs34725/tcs34725.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/tcs34725autorange/tcs34725autorange.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples_processing/colorview/colorview.pde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/library.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/license.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/integrity.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/integrity.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/lvgl/lv_conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/lvgl/lv_conf.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/GUI.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/GUI.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/GUI.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/GUI.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Sensor.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Sensor.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platformio.ini" beforeDir="false" afterPath="$PROJECT_DIR$/platformio.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/GUI.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sensor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sensor.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hardware/Sensor_Board/~Sensor_Board.kicad_sch.lck" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/Sensor_Board/~Sensor_Board.kicad_sch.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hardware/Water_Quality_Measuring_System-backups/Water_Quality_Measuring_System-2024-01-05_235114.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -612,6 +129,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/GUI/lv_port_indev.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -662,6 +182,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "PlatformIO.PlatformIO.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -680,6 +201,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/include" />
+      <recent name="$PROJECT_DIR$/src/GUI" />
     </key>
   </component>
   <component name="RunManager">
@@ -700,7 +222,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709208032946</updated>
-      <workItem from="1709208034564" duration="7622000" />
+      <workItem from="1709208034564" duration="24516000" />
     </task>
     <servers />
   </component>

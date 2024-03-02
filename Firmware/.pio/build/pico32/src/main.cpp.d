@@ -131,7 +131,7 @@
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/io_pin_remap.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
- include/GUI.h .pio/libdeps/pico32/TFT_eSPI/TFT_eSPI.h \
+ src/GUI/GUI.h .pio/libdeps/pico32/TFT_eSPI/TFT_eSPI.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src/SPI.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.h \
@@ -455,8 +455,8 @@
  .pio/libdeps/pico32/lvgl/src/extra/widgets/imgbtn/../../../lvgl.h \
  .pio/libdeps/pico32/lvgl/src/extra/widgets/span/lv_span.h \
  .pio/libdeps/pico32/lvgl/src/extra/widgets/span/../../../lvgl.h \
- include/Sensor.h \
- .pio/libdeps/pico32/Adafruit\ TCS34725/Adafruit_TCS34725.h \
- .pio/libdeps/pico32/Adafruit\ BusIO/Adafruit_I2CDevice.h \
+ src/GUI/gui_guider.h src/GUI/events_init.h include/Sensor.h \
+ .pio/libdeps/pico32/TCS34725/TCS34725.h \
  /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src/Wire.h \
- /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h
+ /Users/mengbowen/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal.h \
+ include/Calculate.h include/Keys.h
