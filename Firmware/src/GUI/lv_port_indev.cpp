@@ -126,12 +126,13 @@ void lv_port_indev_init(void)
     indev_drv.type = LV_INDEV_TYPE_KEYPAD;
     indev_drv.read_cb = keypad_read;
     indev_keypad = lv_indev_drv_register(&indev_drv);
-
     /*Later you should create group(s) with `lv_group_t * group = lv_group_create()`,
      *add objects to the group with `lv_group_add_obj(group, obj)`
      *and assign this input device to group to navigate in it:
      *`lv_indev_set_group(indev_keypad, group);`*/
-
+    lv_group_t * group_btn = lv_group_create();
+    lv_group_set_default(group_btn);
+    lv_indev_set_group(indev_keypad,group_btn);
     /*------------------
      * Encoder
      * -----------------*/
@@ -271,6 +272,7 @@ void lv_port_indev_init(void)
 /*Initialize your keypad*/
 static void keypad_init(void)
 {
+    initKeys();
     /*Your code comes here*/
 }
 
@@ -318,8 +320,11 @@ static void keypad_read(lv_indev_drv_t * indev_drv, lv_indev_data_t * data)
 /*Get the currently being pressed key.  0 if no key is pressed*/
 static uint32_t keypad_get_key(void)
 {
-    return 0;
+    uint32_t key_value = getKeyValue();
+    return key_value;
 }
+
+
 
 ///*------------------
 // * Encoder

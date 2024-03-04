@@ -11,7 +11,7 @@
 
 #ifndef LV_PORT_INDEV_TEMPL_H
 #define LV_PORT_INDEV_TEMPL_H
-
+#include "Keys.h"
 #ifdef __cplusplus
 extern "C" {
 #endif
@@ -20,7 +20,7 @@ extern "C" {
  *      INCLUDES
  *********************/
 #include "lvgl.h"
-#include "Keys.h"
+
 /*********************
  *      DEFINES
  *********************/
@@ -39,6 +39,7 @@ void lv_port_indev_init(void);
  **********************/
 
 #ifdef __cplusplus
+
 } /*extern "C"*/
 #endif
 

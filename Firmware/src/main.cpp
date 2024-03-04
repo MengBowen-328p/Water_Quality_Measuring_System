@@ -3,6 +3,7 @@
 #include <Sensor.h>
 #include <Calculate.h>
 #include "Keys.h"
+#include "lv_port_indev.h"
 
 Screen screen = Screen();
 COLORSENSOR colorsensor = COLORSENSOR();
@@ -13,7 +14,6 @@ void setup()
     screen.initDisplay();
     screen.initGUI();
     colorsensor.initSensor();
-//    initKeys();
 }
 void loop()
 {

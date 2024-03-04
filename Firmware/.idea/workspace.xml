@@ -15,102 +15,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4abbbac-97f7-437d-9984-58274a8860da" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/.piopm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/TCS34725.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/example/example.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/library.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/TCS34725/library.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/Calculate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/Keys.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculate.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/MicroPython/images_md5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/events_init.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/events_init.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/generated.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/gui_guider.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/gui_guider.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/lv_port_indev.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/lv_port_indev.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/setup_scr_Ca_Measure_Page.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/setup_scr_Home_Page.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/widgets_init.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/widgets_init.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Keys.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pio/build/pico32/.sconsign39.dblite" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/.sconsign39.dblite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/firmware_msc_fat.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/FrameworkArduino/firmware_msc_fat.c.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/firmware.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.elf" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/firmware.elf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.map" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/firmware.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/idedata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib85d/Adafruit TCS34725/Adafruit_TCS34725.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib85d/Adafruit TCS34725/Adafruit_TCS34725.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/lib85d/libAdafruit TCS34725.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libFrameworkArduino.a" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/libFrameworkArduino.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_BusIO_Register.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_BusIO_Register.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_I2CDevice.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_I2CDevice.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_SPIDevice.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/Adafruit BusIO/Adafruit_SPIDevice.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/libcb4/libAdafruit BusIO.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/GUI.cpp.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/GUI.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/Sensor.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/Sensor.cpp.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/Sensor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/Sensor.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/GUI/lv_port_indev.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/GUI/lv_port_indev.cpp.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/Keys.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/Keys.cpp.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/Keys.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/Keys.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/project.checksum" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/project.checksum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.github/workflows/githubci.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/.piopm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_BusIO_Register.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_BusIO_Register.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_I2CDevice.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_I2CDevice.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_I2CRegister.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_SPIDevice.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/Adafruit_SPIDevice.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/component.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2c_address_detect/i2c_address_detect.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2c_readwrite/i2c_readwrite.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2c_registers/i2c_registers.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/i2corspi_register/i2corspi_register.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_modetest/spi_modetest.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_readwrite/spi_readwrite.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_register_bits/spi_register_bits.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/examples/spi_registers/spi_registers.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit BusIO/library.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.github/workflows/githubci.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/.piopm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/Adafruit_TCS34725.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/Adafruit_TCS34725.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/code-of-conduct.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/colorview/colorview.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/integration_time/integration_time.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/interrupt/interrupt.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/tcs34725/tcs34725.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples/tcs34725autorange/tcs34725autorange.ino" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/examples_processing/colorview/colorview.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/library.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/Adafruit TCS34725/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/libdeps/pico32/integrity.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/libdeps/pico32/integrity.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/GUI.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/GUI.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/Sensor.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Sensor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platformio.ini" beforeDir="false" afterPath="$PROJECT_DIR$/platformio.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/GUI.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sensor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sensor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Keys.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Keys.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/GUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/GUI.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/lv_port_indev.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/lv_port_indev.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/lv_port_indev.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/lv_port_indev.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Keys.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Keys.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709208032946</updated>
-      <workItem from="1709208034564" duration="24516000" />
+      <workItem from="1709208034564" duration="28157000" />
     </task>
     <servers />
   </component>
