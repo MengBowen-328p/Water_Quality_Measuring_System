@@ -16,21 +16,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a4abbbac-97f7-437d-9984-58274a8860da" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/.sconsign39.dblite" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/.sconsign39.dblite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/firmware.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.elf" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/firmware.elf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/firmware.map" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/firmware.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/GUI/lv_port_indev.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/GUI/lv_port_indev.cpp.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/Keys.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/Keys.cpp.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/Keys.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/Keys.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/.pio/build/pico32/src/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/Keys.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Keys.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/GUI.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/GUI.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/lv_port_indev.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/lv_port_indev.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/lv_port_indev.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/lv_port_indev.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keys.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Keys.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
