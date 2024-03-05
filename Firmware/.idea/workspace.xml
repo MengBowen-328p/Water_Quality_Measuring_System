@@ -16,6 +16,233 @@
   <component name="ChangeListManager">
     <list default="true" id="a4abbbac-97f7-437d-9984-58274a8860da" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/bin/simulator" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/FT5406EE8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/R61581.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/SHARP_MIP.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/SSD1963.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/ST7565.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/UC1610.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/XPT2046.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/code128.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/evdev.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/fbdev.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/custom.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/events_init.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/gui_guider.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/lv_font_montserratMedium_10.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/lv_font_montserratMedium_12.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/lv_font_montserratMedium_16.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/setup_scr_Ca_History_Page.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/setup_scr_Ca_Measure_Page.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/setup_scr_Ca_Page.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/setup_scr_Home_Page.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/setup_scr_screen.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/setup_scr_screen_1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/generated/widgets_init.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/gifdec.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/icon.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/keyboard.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/libinput.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lodepng.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_analogclock.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_anim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_anim_timeline.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_animimg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_arc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_area.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_async.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_bar.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_barcode.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_bidi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_bmp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_btn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_btnmatrix.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_calendar.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_calendar_header_arrow.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_calendar_header_dropdown.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_canvas.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_carousel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_chart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_checkbox.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_color.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_colorwheel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_dclock.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_disp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_arc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_img.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_label.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_layer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_line.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_mask.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_pxp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_pxp_blend.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_rect.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_arc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_bg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_composite.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_img.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_label.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_layer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_line.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_mask.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_polygon.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_rect.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_stack_blur.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_texture_cache.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sdl_utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_arc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_blend.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_dither.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_gradient.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_img.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_layer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_letter.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_line.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_polygon.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_rect.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_sw_transform.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_transform.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_triangle.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_vglite.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_vglite_arc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_vglite_blend.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_vglite_line.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_draw_vglite_rect.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_dropdown.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_event.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_extra.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_ffmpeg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_flex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_dejavu_16_persian_hebrew.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_fmt_txt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_loader.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_10.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_12.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_12_subpx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_14.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_16.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_18.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_20.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_22.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_24.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_26.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_28.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_28_compressed.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_30.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_32.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_34.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_36.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_38.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_40.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_42.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_44.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_46.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_48.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_montserrat_8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_simsun_16_cjk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_unscii_16.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_font_unscii_8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_fragment.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_fragment_manager.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_freetype.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_fs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_fs_fatfs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_fs_posix.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_fs_rawfs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_fs_stdio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_fs_win32.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_gc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_gif.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_gpu_arm2d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_gpu_nxp_pxp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_gpu_nxp_pxp_osa.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_gpu_stm32_dma2d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_gpu_swm341_dma2d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_grid.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_gridnav.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_group.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_hal_disp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_hal_indev.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_hal_tick.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_ime_pinyin.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_img.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_img_buf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_img_cache.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_img_decoder.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_imgbtn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_imgfont.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_indev.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_indev_scroll.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_keyboard.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_label.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_led.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_line.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_list.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_ll.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_log.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_lru.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_math.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_mem.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_menu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_meter.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_monkey.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_msg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_msgbox.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_obj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_obj_class.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_obj_draw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_obj_pos.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_obj_scroll.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_obj_style.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_obj_style_gen.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_obj_tree.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_png.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_printf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_qrcode.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_radiobtn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_refr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_rlottie.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_roller.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_sjpg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_slider.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_snapshot.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_span.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_spinbox.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_spinner.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_style.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_style_gen.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_switch.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_table.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_tabview.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_textarea.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_textprogress.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_theme.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_theme_basic.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_theme_default.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_theme_mono.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_tileview.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_timer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_tlsf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_txt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_txt_ap.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_vglite_buf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_vglite_utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_video.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_win.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/lv_zh_keyboard.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/monitor.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/mouse.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/mousewheel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/qrcodegen.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/tjpgd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_Guider/lvgl-simulator/build/object/win_drv.o" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +299,9 @@
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="3.4" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2d2ZFXqDN736wv1tqR1InGecRGv" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -91,6 +318,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
@@ -109,9 +337,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="PlatformIO" type="platformio" factoryName="PlatformIO Debug" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Firmware" TARGET_NAME="PlatformIO" CONFIG_NAME="PlatformIO">
@@ -127,6 +355,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709208032946</updated>
       <workItem from="1709208034564" duration="28157000" />
+      <workItem from="1709565422814" duration="1401000" />
     </task>
     <servers />
   </component>
